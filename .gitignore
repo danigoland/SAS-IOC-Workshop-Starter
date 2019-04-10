@@ -1,0 +1,4 @@
+venv
+.ipynb_checkpoints
+docker-compose.dev.yml
+.idea

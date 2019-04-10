@@ -1,0 +1,1736 @@
+
+[
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 977662511536377862,
+    "user": "anyrun_app",
+    "mentions": [
+      {
+        "screen_name": "DmitriyMelikov",
+        "start": 93,
+        "end": 108
+      }
+    ],
+    "text": "Analysis of new #Locker named #UselessDisk (by pdb), the sample from @DmitriyMelikov\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/bf664370a287f83a67eb9ec01d575cad3bcdfbec2e2290a5e8d570999566e79e/analysis/",
+        "start": 53,
+        "end": 76
+      },
+      {
+        "url": "https://twitter.com/i/web/status/977662511536377862",
+        "start": 110,
+        "end": 133
+      }
+    ],
+    "hashtags": [
+      "Locker",
+      "UselessDisk"
+    ]
+  },
+  {
+    "matches": [
+      "CVE2",
+      "CVE2"
+    ],
+    "id": 968854161398824961,
+    "user": "anyrun_app",
+    "mentions": [],
+    "text": "Adobe Flash #CVE20184878 in the wild\n\nWhat is this?\n\nDOCX: \nTried to load https://falcancoi\u2026 ",
+    "url": [
+      {
+        "url": "https://app.any.run/tasks/fc119a99-c4f4-4b43-a30c-30de58702c67",
+        "start": 59,
+        "end": 82
+      },
+      {
+        "url": "https://twitter.com/i/web/status/968854161398824961",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "CVE20184878"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 978356485636866050,
+    "user": "JohnLaTwC",
+    "mentions": [
+      {
+        "screen_name": "ItsReallyNick",
+        "start": 10,
+        "end": 24
+      }
+    ],
+    "text": "Lolololol @ItsReallyNick \n\nUploaded from Redmond, WA. Anyone want to put their hand up? https://t.co/KI4sdoLOua",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/0f03bf47ae87c85b908e0b083aa97b2970b5ba513dd9d673febfbb822802d857",
+        "start": 27,
+        "end": 50
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 968293481994059776,
+    "user": "JohnLaTwC",
+    "mentions": [],
+    "text": "A cute little VB Script backdoor (just uploaded from Egypt): ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/4b306c8d58f5b5743ab6f89c4561c9fbad973e96a9fa8ad048491edb0ad929ca/analysis/",
+        "start": 61,
+        "end": 84
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982875321211981826,
+    "user": "B_H101",
+    "mentions": [
+      {
+        "screen_name": "virusbay_io",
+        "start": 88,
+        "end": 100
+      }
+    ],
+    "text": "New Microsoft account phishing attempt \n",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/8f48e2668a50f6ec10757b6d3d0947cc4771492d8f47838a5b4efa8b7b9080e4/details",
+        "start": 40,
+        "end": 63
+      },
+      {
+        "url": "https://beta.virusbay.io/sample/browse/7df1bc8a32e12389e54bf30ee1eb3cd3",
+        "start": 64,
+        "end": 87
+      },
+      {
+        "url": "https://twitter.com/i/web/status/982875321211981826",
+        "start": 102,
+        "end": 125
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 977798764764258304,
+    "user": "B_H101",
+    "mentions": [
+      {
+        "screen_name": "postbank",
+        "start": 0,
+        "end": 9
+      }
+    ],
+    "text": "@postbank  phishing sample. .DOC, downloads malware. \n\nhttps://t.co/GYnKw2L45u",
+    "url": [
+      {
+        "url": "https://beta.virusbay.io/sample/browse/480e1c7133f4052acb34ccff148303e2",
+        "start": 55,
+        "end": 78
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/6899b3baa5086b20dc28b8a3a0cc6b53c9df8e751cb1922b039d881dfe2ce1d5/detection",
+        "start": 79,
+        "end": 102
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 976358227435773952,
+    "user": "B_H101",
+    "mentions": [],
+    "text": "Another evasive #qrat sample (7/57)\n#adwind #qrat  #malware\n ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/c9793730ac505f34daf50e0860b90927cfd01db422d2a623ca0343011d9c20d2/detection",
+        "start": 60,
+        "end": 83
+      },
+      {
+        "url": "https://beta.virusbay.io/sample/browse/68dc0d84658b957d2adece5a3eff2dda",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "url": "https://twitter.com/i/web/status/976358227435773952",
+        "start": 109,
+        "end": 132
+      }
+    ],
+    "hashtags": [
+      "qrat",
+      "adwind",
+      "qrat",
+      "malware"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 973934269755219969,
+    "user": "B_H101",
+    "mentions": [
+      {
+        "screen_name": "Racco42",
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "text": "RT @Racco42: Some kind of Java malware from malspams tageting turkish users\nJS: downloads .jar from hxxp://ornekkal\u2026",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/file/7ea75d540da20f1e1cd0039eddedbcd55c183970a8e9733152bfb8b761bb1bb1/analysis/1521026636/",
+        "start": 80,
+        "end": 103
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 973882763202973701,
+    "user": "Racco42",
+    "mentions": [],
+    "text": "Some kind of Java malware from malspams tageting turkish users\nJS: downloads .jar from hxxp\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/file/7ea75d540da20f1e1cd0039eddedbcd55c183970a8e9733152bfb8b761bb1bb1/analysis/1521026636/",
+        "start": 67,
+        "end": 90
+      },
+      {
+        "url": "https://twitter.com/i/web/status/973882763202973701",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH",
+      "HASH"
+    ],
+    "id": 973625556028874754,
+    "user": "B_H101",
+    "mentions": [
+      {
+        "screen_name": "virusbay_io",
+        "start": 96,
+        "end": 108
+      }
+    ],
+    "text": "@virusbay_io\u2026 ",
+    "url": [
+      {
+        "url": "https://beta.virusbay.io/sample/browse/c39ba35715132aa3a6e18198af331e2a",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "url": "https://beta.virusbay.io/sample/browse/c38828192f58750fa996804c28b009b7",
+        "start": 24,
+        "end": 47
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/87433f0a054f0a3e9e28ae707f5e802f58ae144bf03e46daafe9bba4994aa8e6/detection",
+        "start": 48,
+        "end": 71
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/635e12701dc11428366e4a80fc1f6e128fe03ed9aacb38f8bfd8db136ea75325/detection",
+        "start": 72,
+        "end": 95
+      },
+      {
+        "url": "https://twitter.com/i/web/status/973625556028874754",
+        "start": 110,
+        "end": 133
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 968075047687639041,
+    "user": "B_H101",
+    "mentions": [
+      {
+        "screen_name": "virusbay_io",
+        "start": 69,
+        "end": 81
+      },
+      {
+        "screen_name": "securitydoggo",
+        "start": 83,
+        "end": 97
+      },
+      {
+        "screen_name": "James_inthe_box",
+        "start": 99,
+        "end": 115
+      }
+    ],
+    "text": "Dropped trojan :  \n\n\n@virusbay_io  @securitydoggo  @James_inthe_box\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/23373f1e75cc2251a07df692b038cc99629364673bd0c551c2075d223cf80564/details",
+        "start": 19,
+        "end": 42
+      },
+      {
+        "url": "https://beta.virusbay.io/sample/browse/592a19988d63ec6a19216c784a587585",
+        "start": 44,
+        "end": 67
+      },
+      {
+        "url": "https://twitter.com/i/web/status/968075047687639041",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH",
+      "HASH"
+    ],
+    "id": 968068870622892032,
+    "user": "B_H101",
+    "mentions": [],
+    "text": "#QuantLoader sample (13/67)\nhttps://t.co/6EtdxOypou",
+    "url": [
+      {
+        "url": "https://beta.virusbay.io/sample/browse/186b0653e11b870bdd173d8fa0d214ca",
+        "start": 28,
+        "end": 51
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/040f5d3abff35dd67d0387cb8d97ec78fc2d6420a1b4e0a4ffd716cea818ab1e/detection",
+        "start": 52,
+        "end": 75
+      },
+      {
+        "url": "https://www.hybrid-analysis.com/sample/040f5d3abff35dd67d0387cb8d97ec78fc2d6420a1b4e0a4ffd716cea818ab1e?environmentId=100",
+        "start": 76,
+        "end": 99
+      }
+    ],
+    "hashtags": [
+      "QuantLoader"
+    ]
+  },
+  {
+    "matches": [
+      "CVE2",
+      "HASH",
+      "CVE2"
+    ],
+    "id": 976006904060301312,
+    "user": "buffaloverflow",
+    "mentions": [
+      {
+        "screen_name": "ShiaoQu17",
+        "start": 3,
+        "end": 13
+      }
+    ],
+    "text": "RT @ShiaoQu17: #CVE20180802\nA new variant was found yesterday.\n\n\nThis variant no longer uses \"Equation Native\" stre\u2026",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/c7a5b13de3cf8af188cdcbec747577545d8bce5ae049dcd01d6976b8b1008258/detection",
+        "start": 64,
+        "end": 87
+      }
+    ],
+    "hashtags": [
+      "CVE20180802"
+    ]
+  },
+  {
+    "matches": [
+      "CVE2",
+      "HASH",
+      "CVE2"
+    ],
+    "id": 975960535156932608,
+    "user": "ShiaoQu17",
+    "mentions": [],
+    "text": "#CVE20180802\nA new variant was found yesterday.\n\n\nThis variant no longer uses \"Equation Nat\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/c7a5b13de3cf8af188cdcbec747577545d8bce5ae049dcd01d6976b8b1008258/detection",
+        "start": 49,
+        "end": 72
+      },
+      {
+        "url": "https://twitter.com/i/web/status/975960535156932608",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "CVE20180802"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 968260955988733952,
+    "user": "buffaloverflow",
+    "mentions": [],
+    "text": "Nice and simple obfuscation in RTF macro to drop #Lokibot 5/60 on VT\n\n ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/ff2efd15a71c05c5d53dbee2f917ae7ee654f7f622f92a9dc5d9e79b95e833a6/detection",
+        "start": 70,
+        "end": 93
+      },
+      {
+        "url": "https://twitter.com/i/web/status/968260955988733952",
+        "start": 95,
+        "end": 118
+      }
+    ],
+    "hashtags": [
+      "Lokibot"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982679985386291201,
+    "user": "dvk01uk",
+    "mentions": [
+      {
+        "screen_name": "malwrhunterteam",
+        "start": 88,
+        "end": 104
+      },
+      {
+        "screen_name": "James_inthe_box",
+        "start": 105,
+        "end": 121
+      },
+      {
+        "screen_name": "Antelox",
+        "start": 122,
+        "end": 130
+      }
+    ],
+    "text": "Any idea what we have here   Fake order @malwrhunterteam @James_inthe_box @Antelox",
+    "url": [
+      {
+        "url": "https://app.any.run/tasks/3c5a2948-6e6e-4ca9-abcb-5b6d73c84909",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "url": "https://www.virustotal.com/en/file/ce8f39e0e81035090bb800c0ead4f63f97391720c307822912bf17d481c583d1/analysis/1523123857/",
+        "start": 52,
+        "end": 75
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981936743506219010,
+    "user": "dvk01uk",
+    "mentions": [
+      {
+        "screen_name": "Antelox",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "screen_name": "dvk01uk",
+        "start": 13,
+        "end": 21
+      }
+    ],
+    "text": "RT @Antelox: @dvk01uk Sorry for delay. Yes it drops #DarkVNC (. It also drops the same loader we seen on Friday whi\u2026",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/8b9a93657fda9a061d80640fe3e56134fee5dbb81bd361a824c08386a98d1d89/analysis/",
+        "start": 62,
+        "end": 85
+      }
+    ],
+    "hashtags": [
+      "DarkVNC"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981935916444012544,
+    "user": "Antelox",
+    "mentions": [
+      {
+        "screen_name": "dvk01uk",
+        "start": 0,
+        "end": 8
+      }
+    ],
+    "text": "@dvk01uk Sorry for delay. Yes it drops #DarkVNC (. It also drops the same loader we seen on\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/8b9a93657fda9a061d80640fe3e56134fee5dbb81bd361a824c08386a98d1d89/analysis/",
+        "start": 49,
+        "end": 72
+      },
+      {
+        "url": "https://twitter.com/i/web/status/981935916444012544",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "DarkVNC"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981936675935936513,
+    "user": "dvk01uk",
+    "mentions": [
+      {
+        "screen_name": "Antelox",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "screen_name": "dvk01uk",
+        "start": 13,
+        "end": 21
+      }
+    ],
+    "text": "RT @Antelox: @dvk01uk The unpacked #Ramnit: ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/30278cd9e9d3fc807ad543d722ac05c736570c7e4cdf15c6f18626fc43bd7402/analysis/",
+        "start": 44,
+        "end": 67
+      }
+    ],
+    "hashtags": [
+      "Ramnit"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981936545878892544,
+    "user": "Antelox",
+    "mentions": [
+      {
+        "screen_name": "dvk01uk",
+        "start": 0,
+        "end": 8
+      }
+    ],
+    "text": "@dvk01uk The unpacked #Ramnit: ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/30278cd9e9d3fc807ad543d722ac05c736570c7e4cdf15c6f18626fc43bd7402/analysis/",
+        "start": 31,
+        "end": 54
+      }
+    ],
+    "hashtags": [
+      "Ramnit"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981890659891269633,
+    "user": "dvk01uk",
+    "mentions": [
+      {
+        "screen_name": "JAMESWT_MHT",
+        "start": 0,
+        "end": 12
+      }
+    ],
+    "text": "@JAMESWT_MHT Mine ",
+    "url": [
+      {
+        "url": "https://www.hybrid-analysis.com/sample/4d1015ff8f94e64c47fe41d1202ef2438c89e6d2a5fd68e4f01c5b4be943fc43/5ac623d87ca3e10f995a9b16",
+        "start": 18,
+        "end": 41
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981884271446159361,
+    "user": "dvk01uk",
+    "mentions": [],
+    "text": "what have we got here . from one of them multi reply messages starts with doc  ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/3976c50e180ed8ecdf54f1d75bd07c5fa7be60bdc9315546c3460d7dac0db413/analysis/1522927098/",
+        "start": 78,
+        "end": 101
+      },
+      {
+        "url": "https://twitter.com/i/web/status/981884271446159361",
+        "start": 103,
+        "end": 126
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981534512663400448,
+    "user": "dvk01uk",
+    "mentions": [
+      {
+        "screen_name": "anyrun_app",
+        "start": 84,
+        "end": 95
+      }
+    ],
+    "text": "adwind jrat qrat  not doing much in @anyrun_app today",
+    "url": [
+      {
+        "url": "https://app.any.run/tasks/bc2c6179-1df0-42f2-a483-7e7676c80fbe",
+        "start": 17,
+        "end": 40
+      },
+      {
+        "url": "https://www.virustotal.com/en/file/7646dddba9e1276f4a3b8edd1505c5897994c44c448e813912ab36764d780f30/analysis/1522848607/",
+        "start": 42,
+        "end": 65
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 975657028965289984,
+    "user": "JakubKroustek",
+    "mentions": [],
+    "text": "#Stinger #ransomware: \"About .Stinger unlocking instructions.txt\" + \".Stinger\" https://t.co/zRkGPvThN4",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/ef294e69cda98f1a76367d07f009e340176f523fe2fb7495f6161046d4f0944f/detection",
+        "start": 79,
+        "end": 102
+      }
+    ],
+    "hashtags": [
+      "Stinger",
+      "ransomware"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 961995117895868416,
+    "user": "JakubKroustek",
+    "mentions": [
+      {
+        "screen_name": "demonslay335",
+        "start": 0,
+        "end": 13
+      }
+    ],
+    "text": "@demonslay335 Here you go: ",
+    "url": [
+      {
+        "url": "https://beta.virusbay.io/sample/browse?q=61ec258dea4b86b03ce872ffd64000ec5ef84622e0588dfdb1486fbe370f8f1d",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/61ec258dea4b86b03ce872ffd64000ec5ef84622e0588dfdb1486fbe370f8f1d/detection",
+        "start": 51,
+        "end": 74
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 950810913455640577,
+    "user": "JakubKroustek",
+    "mentions": [
+      {
+        "screen_name": "demonslay335",
+        "start": 0,
+        "end": 13
+      }
+    ],
+    "text": "@demonslay335 - quite old one",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/0de1628fc7325829236ea54d28ef2a176e1827ef8893871770665a2d57f9e899/analysis/1515525767/",
+        "start": 14,
+        "end": 37
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 936989753412673536,
+    "user": "JakubKroustek",
+    "mentions": [],
+    "text": "#Ransomware #Blind with '.napoleon' extension and notes in 'How_Decrypt_Files.hta'. https://t.co/6d6Q3y18Be",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/070b60dcdfa5a00c33d019bfa068283c9b4662b8491a32323e17a956bd0bd831/detection",
+        "start": 84,
+        "end": 107
+      }
+    ],
+    "hashtags": [
+      "Ransomware",
+      "Blind"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 929980786719297536,
+    "user": "JakubKroustek",
+    "mentions": [
+      {
+        "screen_name": "jiriatvirlab",
+        "start": 62,
+        "end": 75
+      },
+      {
+        "screen_name": "drProct0r",
+        "start": 76,
+        "end": 86
+      }
+    ],
+    "text": "#RevengeRAT with Java icon and digitally signed as Eset :) cc @jiriatvirlab @drProct0r https://t.co/mR3GtycSEn",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/ceb8033c08a930697a8c4621173ba34caa54b134ea80eb79022c5ea096f9fc4a/analysis/",
+        "start": 87,
+        "end": 110
+      }
+    ],
+    "hashtags": [
+      "RevengeRAT"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 928178882678845440,
+    "user": "JakubKroustek",
+    "mentions": [
+      {
+        "screen_name": "demonslay335",
+        "start": 0,
+        "end": 13
+      }
+    ],
+    "text": "@demonslay335 I can confirm that: ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/de6376e23536b3039afe6b0645da4fc180969b1dc3cc038b1c6bd5941d88c4d8/analysis/",
+        "start": 34,
+        "end": 57
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982597926554923008,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "And then here is a loader for SocketPlayer's loader: Also, if you do a search on VT, you wi\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/1cf67c25274473724a6cf614d45217edc16edbccebb3fa212f7b17e127362ea7/analysis/1522910868/",
+        "start": 53,
+        "end": 76
+      },
+      {
+        "url": "https://twitter.com/i/web/status/982597926554923008",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982536183849869312,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "That file ( is a WSO 2.6 shell (\"Maded by DrSpy\" version)...\n\ud83d\ude02 https://t.co/wrd4AjXORi",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/5aa10115d8c8ab9b3b3f12b6ef24274a0cf7f15c442f0c92ab3d19ed55167b72/analysis/",
+        "start": 11,
+        "end": 34
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981590042769547265,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "\"TurkHackTeam Ransomware Builder\": All it does is appending key &amp; extension to the end of t\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/48bce7184284e956b33df4d154cec5d1584b68b5f610c3d86b0b197152cd82fd/analysis/1522562532/",
+        "start": 35,
+        "end": 58
+      },
+      {
+        "url": "https://twitter.com/i/web/status/981590042769547265",
+        "start": 121,
+        "end": 144
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH",
+      "Filepath"
+    ],
+    "id": 981569109111472132,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "Yesterday found a week old HDDCrypt (or Mamba) ransomware sample: PDB: \"C:\\Users\\public.Unk\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/87915f2f6c1ac2a8354b55bb98d5f85f5de7a4acb2021a579ffa701cd42f452b/analysis/1522601136/",
+        "start": 66,
+        "end": 89
+      },
+      {
+        "url": "https://twitter.com/i/web/status/981569109111472132",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981562664584466434,
+    "user": "malwrhunterteam",
+    "mentions": [
+      {
+        "screen_name": "virusbay_io",
+        "start": 107,
+        "end": 119
+      }
+    ],
+    "text": "In case anyone interested, here is the sample: It is also available to download on @virusbay_io.",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/36522aed250792515db4abaecc60d3b2eee8e616175a252c90df037c47a9254e/analysis/1522737908/",
+        "start": 47,
+        "end": 70
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981314845042556930,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "malwrhunterteam",
+        "start": 3,
+        "end": 19
+      }
+    ],
+    "text": "RT @malwrhunterteam: WhiteRose ( ransomware sample found: After a very quick look:\n- Should\u2026",
+    "url": [
+      {
+        "url": "https://twitter.com/demonslay335/status/978325360306683906",
+        "start": 32,
+        "end": 55
+      },
+      {
+        "url": "https://www.virustotal.com/en/file/9614b9bc6cb2d06d261f97ba25743a89df44906e750c52398b5dbdbcb66a9415/analysis/1522737907/",
+        "start": 82,
+        "end": 105
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981152729832751105,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "WhiteRose ( ransomware sample found: After a very quick look:\n- Sho\u2026 ",
+    "url": [
+      {
+        "url": "https://twitter.com/demonslay335/status/978325360306683906",
+        "start": 11,
+        "end": 34
+      },
+      {
+        "url": "https://www.virustotal.com/en/file/9614b9bc6cb2d06d261f97ba25743a89df44906e750c52398b5dbdbcb66a9415/analysis/1522737907/",
+        "start": 61,
+        "end": 84
+      },
+      {
+        "url": "https://twitter.com/i/web/status/981152729832751105",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 979031603996446720,
+    "user": "SevenLayerJedi",
+    "mentions": [],
+    "text": "#Hybridanalysis\n\n#ANYRUN\n",
+    "url": [
+      {
+        "url": "https://www.hybrid-analysis.com/sample/64fb051f800701daded235e389da6bfbe8f8691fc40ef887f1840f4cb348e95a",
+        "start": 16,
+        "end": 39
+      },
+      {
+        "url": "https://app.any.run/tasks/598a8239-611b-43f2-af89-c42d55004513",
+        "start": 49,
+        "end": 72
+      }
+    ],
+    "hashtags": [
+      "Hybridanalysis",
+      "ANYRUN"
+    ]
+  },
+  {
+    "matches": [
+      "HASH",
+      "Host"
+    ],
+    "id": 965959843298316288,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "JAMESWT_MHT",
+        "start": 3,
+        "end": 15
+      }
+    ],
+    "text": "RT @JAMESWT_MHT: new #emotet doc\n/personaltrainervancouverwashington.com/cjqw5F/\n/www.christian-jansen.nl/tiga3CP/\u2026",
+    "url": [
+      {
+        "url": "https://www.reverse.it/sample/df7cf8167383cd006ae529247be607a627aee66529afbc56ab3c895124964f7d?environmentId=100",
+        "start": 33,
+        "end": 56
+      }
+    ],
+    "hashtags": [
+      "emotet"
+    ]
+  },
+  {
+    "matches": [
+      "HASH",
+      "Host"
+    ],
+    "id": 965890732824387584,
+    "user": "JAMESWT_MHT",
+    "mentions": [],
+    "text": "new #emotet doc\n/personaltrainervancouverwashington.com/cjqw5F/\n/www.christian-jansen.nl/ti\u2026 ",
+    "url": [
+      {
+        "url": "https://www.reverse.it/sample/df7cf8167383cd006ae529247be607a627aee66529afbc56ab3c895124964f7d?environmentId=100",
+        "start": 16,
+        "end": 39
+      },
+      {
+        "url": "https://twitter.com/i/web/status/965890732824387584",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "emotet"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 965608890053353473,
+    "user": "SevenLayerJedi",
+    "mentions": [],
+    "text": "hxxp://mcchagasadvogados[.]\n\n#SNAPITO \n#VirusTotal ",
+    "url": [
+      {
+        "url": "http://com.br/wp-content/plugins/css-ready-selectors/dcc/index.php?email=abuse@ups.com",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "url": "https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=http%3A%2F%2Fmcchagasadvogados.com.br%2Fwp-content%2Fplugins%2Fcss-ready-selectors%2Fdcc%2Findex.php%3Femail%3Dabuse%40ups.com",
+        "start": 62,
+        "end": 85
+      },
+      {
+        "url": "https://www.virustotal.com/#/url/844e206b20246304684a9e61c37b32bf5097abd5157b9bf753da164184a4df7a/detection",
+        "start": 99,
+        "end": 122
+      }
+    ],
+    "hashtags": [
+      "SNAPITO",
+      "VirusTotal"
+    ]
+  },
+  {
+    "matches": [
+      "HASH",
+      "Filepath"
+    ],
+    "id": 965065846077890562,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "malwrhunterteam",
+        "start": 3,
+        "end": 19
+      }
+    ],
+    "text": "RT @malwrhunterteam: Another ransomware: Thanatos.\nExtension: .THANATOS\nNote: README.txt\nSample: PDB: \"D:\\Work\\Than\u2026",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/55aa55229ea26121048b8c5f63a8b6921f134d425fba1eabd754281ca6466b70/analysis/1518881116/",
+        "start": 97,
+        "end": 120
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH",
+      "Filepath"
+    ],
+    "id": 964952450846351360,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "Another ransomware: Thanatos.\nExtension: .THANATOS\nNote: README.txt\nSample: PDB: \"D:\\Work\\T\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/55aa55229ea26121048b8c5f63a8b6921f134d425fba1eabd754281ca6466b70/analysis/1518881116/",
+        "start": 76,
+        "end": 99
+      },
+      {
+        "url": "https://twitter.com/i/web/status/964952450846351360",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 964114143941816322,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "malwrhunterteam",
+        "start": 3,
+        "end": 19
+      }
+    ],
+    "text": "RT @malwrhunterteam: Some (BR?) actor's njRAT: Crypted using a \"quality\" crypter, (the stub is protected w/ a Confu\u2026",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/d30438add348b6fcc9e353cf4fd55f9574b26ca0e2f2e39288ec486aae0cefbc/analysis/1518633862/",
+        "start": 47,
+        "end": 70
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 963858200520024064,
+    "user": "malwrhunterteam",
+    "mentions": [],
+    "text": "Some (BR?) actor's njRAT: Crypted using a \"quality\" crypter, (the stub is protected w/ a Co\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/d30438add348b6fcc9e353cf4fd55f9574b26ca0e2f2e39288ec486aae0cefbc/analysis/1518633862/",
+        "start": 26,
+        "end": 49
+      },
+      {
+        "url": "https://twitter.com/i/web/status/963858200520024064",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 960577524366544896,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "virustotal",
+        "start": 57,
+        "end": 68
+      }
+    ],
+    "text": "New #Phishing site. OWA Login.\n\n.@virustotal Link - \n#PhishTank Lin\u2026 ",
+    "url": [
+      {
+        "url": "https://pastebin.com/6x312mGf",
+        "start": 31,
+        "end": 54
+      },
+      {
+        "url": "https://www.virustotal.com/#/url/a2917c0cd3467a7d035d9000a1844d56ce5f07e0fdf7f77d4b76d0b8f6868d74/detection",
+        "start": 76,
+        "end": 99
+      },
+      {
+        "url": "https://twitter.com/i/web/status/960577524366544896",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "Phishing",
+      "PhishTank"
+    ]
+  },
+  {
+    "matches": [
+      "HASH",
+      "HASH",
+      "Host",
+      "Filename"
+    ],
+    "id": 958006988633452544,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "fumik0_",
+        "start": 0,
+        "end": 8
+      }
+    ],
+    "text": "@fumik0_ meow://kdotraky[.]com/dot/megamni.exe\n\nHA: \nVT: \nIf anyone\u2026 ",
+    "url": [
+      {
+        "url": "https://www.hybrid-analysis.com/sample/7803b86e081d600687b88dce8bf2185882fe7a56dda24dc3e67132a78d44efd2?environmentId=100",
+        "start": 52,
+        "end": 75
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/7803b86e081d600687b88dce8bf2185882fe7a56dda24dc3e67132a78d44efd2/detection",
+        "start": 81,
+        "end": 104
+      },
+      {
+        "url": "https://twitter.com/i/web/status/958006988633452544",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 952974723876642821,
+    "user": "SevenLayerJedi",
+    "mentions": [
+      {
+        "screen_name": "malwrhunterteam",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "screen_name": "James_inthe_box",
+        "start": 17,
+        "end": 33
+      },
+      {
+        "screen_name": "JAMESWT_MHT",
+        "start": 34,
+        "end": 46
+      }
+    ],
+    "text": "@malwrhunterteam @James_inthe_box @JAMESWT_MHT Thank you!!! Here is the HA Link: ",
+    "url": [
+      {
+        "url": "https://www.hybrid-analysis.com/sample/09468a6910c6fdf432aea0e16ffd1a1501b6dede66cd8f660874ab087c3552c3?environmentId=100",
+        "start": 81,
+        "end": 104
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982429577212411904,
+    "user": "James_inthe_box",
+    "mentions": [],
+    "text": "This unidentified sample has been a hoot..turns out it's #corebot.  Original here:\n\n\nunpack\u2026 ",
+    "url": [
+      {
+        "url": "https://www.hybrid-analysis.com/sample/03883a5ea38176967f95c5fb2929bcf4aa944695336b725b6e01c4d652b2af66?environmentId=100",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "url": "https://twitter.com/i/web/status/982429577212411904",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "corebot"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982261535752896512,
+    "user": "James_inthe_box",
+    "mentions": [
+      {
+        "screen_name": "FrantechCA",
+        "start": 73,
+        "end": 84
+      },
+      {
+        "screen_name": "benkow_",
+        "start": 85,
+        "end": 93
+      },
+      {
+        "screen_name": "Xylit0l",
+        "start": 94,
+        "end": 102
+      }
+    ],
+    "text": "#nanocore c2 here:\n\n\n\ncc @FrantechCA @benkow_ @Xylit0l\u2026 ",
+    "url": [
+      {
+        "url": "https://censys.io/ipv4/172.86.120.91",
+        "start": 20,
+        "end": 43
+      },
+      {
+        "url": "https://www.hybrid-analysis.com/sample/98b521b3b880480fda8ade21899e3a9292532d5f9bd99f40408d2592b4bbbb64",
+        "start": 45,
+        "end": 68
+      },
+      {
+        "url": "https://twitter.com/i/web/status/982261535752896512",
+        "start": 104,
+        "end": 127
+      }
+    ],
+    "hashtags": [
+      "nanocore"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982003272562044928,
+    "user": "James_inthe_box",
+    "mentions": [],
+    "text": "Another one of those cool kitchen sink combo jobs:  #adwind #lokibot #xtreme #rat \n\n ",
+    "url": [
+      {
+        "url": "https://iris-h.malwageddon.com/report/ff1d83858bc053d1c035b2adec638a6b",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "url": "https://twitter.com/i/web/status/982003272562044928",
+        "start": 109,
+        "end": 132
+      }
+    ],
+    "hashtags": [
+      "adwind",
+      "lokibot",
+      "xtreme",
+      "rat"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 981613656935874560,
+    "user": "James_inthe_box",
+    "mentions": [
+      {
+        "screen_name": "angel11VR",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "screen_name": "Techhelplistcom",
+        "start": 11,
+        "end": 27
+      },
+      {
+        "screen_name": "Antelox",
+        "start": 28,
+        "end": 36
+      },
+      {
+        "screen_name": "malwrhunterteam",
+        "start": 37,
+        "end": 53
+      }
+    ],
+    "text": "@angel11VR @Techhelplistcom @Antelox @malwrhunterteam Signs pointing to an old Dyreza sample:\n\n",
+    "url": [
+      {
+        "url": "https://www.hybrid-analysis.com/sample/540a3eea77596c2f519436604e8ebe50d5d35cabb28d767c199881212faab182?environmentId=2",
+        "start": 95,
+        "end": 118
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 976208116416241670,
+    "user": "malware_traffic",
+    "mentions": [],
+    "text": "2018-03-20 - Another #LokBot binary from #malspam - Windows executable submitted to VT at: https://t.co/Cvdnlq9K8j",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/19b734aff6e8090a721a3ae9faa88c639a4037593d759821cb8e834585c90498/",
+        "start": 91,
+        "end": 114
+      }
+    ],
+    "hashtags": [
+      "LokBot",
+      "malspam"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 975765191605538817,
+    "user": "malware_traffic",
+    "mentions": [],
+    "text": "2018-03-19 - This #malspam attachment, a #cve201718822 RTF file: retrieved #LokiBot executa\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/fa5b8936ccee40a1c9b2033977157093be94ffa1510843840fa8b9628ab08df3/",
+        "start": 65,
+        "end": 88
+      },
+      {
+        "url": "https://twitter.com/i/web/status/975765191605538817",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "malspam",
+      "cve201718822",
+      "LokiBot"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 975737869489901569,
+    "user": "malware_traffic",
+    "mentions": [],
+    "text": "2018-03-19 - This #cve20170199 RTF file: retrieves this windows executable:\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/5c1c14be330daa2ddc7273b80ce4cd97739053ce144b713851e8edd595208fca/",
+        "start": 41,
+        "end": 64
+      },
+      {
+        "url": "https://twitter.com/i/web/status/975737869489901569",
+        "start": 101,
+        "end": 124
+      }
+    ],
+    "hashtags": [
+      "cve20170199"
+    ]
+  },
+  {
+    "matches": [
+      "HASH",
+      "Host"
+    ],
+    "id": 973942593016029184,
+    "user": "malware_traffic",
+    "mentions": [],
+    "text": "2018-03-14 - This RTF file: is calling out to daltondivine[.]com for follow-up malware. https://t.co/q3zxy6h2NP",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/505babb96fd77d35c377e87d0bb5c68c45a3a33b02befe35b06f561bd2993b87",
+        "start": 28,
+        "end": 51
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 973368106985848832,
+    "user": "malware_traffic",
+    "mentions": [],
+    "text": "2018-03-12 - #malspam with attached XLS (with macro) pushing #LokiBot - XLS file: - #LokBot\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/184864045b60f9a43e57813b1a77b29ac376e1fa6927206dcaf9f6314f4ca896",
+        "start": 82,
+        "end": 105
+      },
+      {
+        "url": "https://twitter.com/i/web/status/973368106985848832",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": [
+      "malspam",
+      "LokiBot",
+      "LokBot"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 977910620854149122,
+    "user": "MaliciousDelish",
+    "mentions": [
+      {
+        "screen_name": "ItsReallyNick",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "screen_name": "Elm0D",
+        "start": 15,
+        "end": 21
+      }
+    ],
+    "text": "@ItsReallyNick @Elm0D Re: 2\u20e3 Hey look, someone uploaded a cracked (and updated?) version too:\n",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/7c4fb8c18b0c6364040393924673e040d24522306863d13ad31c51510b44a7eb/detection",
+        "start": 94,
+        "end": 117
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 971833432803364864,
+    "user": "MaliciousDelish",
+    "mentions": [
+      {
+        "screen_name": "JohnLaTwC",
+        "start": 3,
+        "end": 13
+      }
+    ],
+    "text": "RT @JohnLaTwC: If you were looking for a #Python backdoor for Windows today, here you go:\nh\u2026",
+    "url": [
+      {
+        "url": "https://ghostbin.com/paste/mrsjs",
+        "start": 90,
+        "end": 113
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/f537610a1eb747396f2faca248321d3de00e000ebbf3ed6544628c16381fd454",
+        "start": 114,
+        "end": 137
+      }
+    ],
+    "hashtags": [
+      "Python"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 961640157697978368,
+    "user": "MaliciousDelish",
+    "mentions": [
+      {
+        "screen_name": "MrHazum",
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "text": "RT @MrHazum: Check out my blogpost - A new #RigEK campaign #Slots dropping #XMRig miner\n\n\n",
+    "url": [
+      {
+        "url": "https://research.checkpoint.com/new-rig-exploit-kit-campaign-dropping-xmrig-miner/",
+        "start": 89,
+        "end": 112
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/4cdfdf81d0637a07badfaa8eb783320cc810d3a2b437bc978b9f76233920a0e1/detection",
+        "start": 114,
+        "end": 137
+      }
+    ],
+    "hashtags": [
+      "RigEK",
+      "Slots",
+      "XMRig"
+    ]
+  },
+  {
+    "matches": [
+      "HASH",
+      "IP"
+    ],
+    "id": 982427431117164545,
+    "user": "0Btemos_BHS",
+    "mentions": [
+      {
+        "screen_name": "virustotal",
+        "start": 18,
+        "end": 29
+      }
+    ],
+    "text": "Malware LokiBot: \n@virustotal  : C&amp;C : hxxp://190.14.37.79/site/ https://t.co/KTFBCczKAz",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/494d2a8871e064255386a0c1cadbe58c7e96469636bf8d77a6dde9d2b7cbf2ce/",
+        "start": 33,
+        "end": 56
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 974352481235947521,
+    "user": "0Btemos_BHS",
+    "mentions": [
+      {
+        "screen_name": "virustotal",
+        "start": 107,
+        "end": 118
+      }
+    ],
+    "text": "C&amp;C #Malware Pony Version 2.2 \n- Tracker-0Btemos : VT: @virustotal https://t.co/LaelKKimsR",
+    "url": [
+      {
+        "url": "http://0btemos-tracker.co.nf/",
+        "start": 55,
+        "end": 78
+      },
+      {
+        "url": "https://www.virustotal.com/#/file/1c3e906eafbec1314007079763d58079a9a75dacbd546edf0f62c9f63f9e9352/details",
+        "start": 83,
+        "end": 106
+      }
+    ],
+    "hashtags": [
+      "Malware"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 969751366972465154,
+    "user": "0Btemos_BHS",
+    "mentions": [],
+    "text": "VirusTotal: \ud83d\ude09",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/#/file/3a3787491cb510802bff8c11a863ca7fa5b7e9af172d724ec9da42f06f5b5383",
+        "start": 12,
+        "end": 35
+      }
+    ],
+    "hashtags": []
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 982149522053775360,
+    "user": "_odisseus",
+    "mentions": [
+      {
+        "screen_name": "James_inthe_box",
+        "start": 3,
+        "end": 19
+      }
+    ],
+    "text": "RT @James_inthe_box: Another one of those cool kitchen sink combo jobs:  #adwind #lokibot #xtreme #rat \n\n\nhttps://t\u2026",
+    "url": [
+      {
+        "url": "https://iris-h.malwageddon.com/report/ff1d83858bc053d1c035b2adec638a6b",
+        "start": 105,
+        "end": 128
+      }
+    ],
+    "hashtags": [
+      "adwind",
+      "lokibot",
+      "xtreme",
+      "rat"
+    ]
+  },
+  {
+    "matches": [
+      "HASH"
+    ],
+    "id": 979323508093341696,
+    "user": "_odisseus",
+    "mentions": [
+      {
+        "screen_name": "nicoleperlroth",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "screen_name": "kaspersky",
+        "start": 99,
+        "end": 109
+      }
+    ],
+    "text": "Hi @nicoleperlroth \ngive a look to this example:\n\u2026\nsome vendors, including @kaspersky, dete\u2026 ",
+    "url": [
+      {
+        "url": "https://www.virustotal.com/en/file/f7ac79028005596e76ba9b2e1b9b777b3e1a649d927572214fdd3ddaea2ec120/analysis/1522195341/",
+        "start": 49,
+        "end": 72
+      },
+      {
+        "url": "https://twitter.com/i/web/status/979323508093341696",
+        "start": 117,
+        "end": 140
+      }
+    ],
+    "hashtags": []
+  }
+]

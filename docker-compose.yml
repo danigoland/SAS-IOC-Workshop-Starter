@@ -1,0 +1,17 @@
+neo4j:
+  image: neo4j:latest
+  ports:
+    - "7474:7474"
+    - "7687:7687"
+  environment:
+    NEO4J_AUTH: "none"
+
+jupyter:
+  image: jupyter_ioc_workshop:latest
+  ports:
+    - "8888:8888"
+  environment:
+    - TWITTER_API_KEY=XXXXXX
+    - TWITTER_API_SECRET=XXXXX
+  links:
+    - neo4j
