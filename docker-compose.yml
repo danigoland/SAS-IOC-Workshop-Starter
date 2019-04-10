@@ -7,7 +7,7 @@ neo4j:
     NEO4J_AUTH: "none"
 
 jupyter:
-  image: jupyter_ioc_workshop:latest
+  image: danigoland/ioc-workshop:latest
   ports:
     - "8888:8888"
   environment:
